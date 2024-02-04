@@ -1,3 +1,3 @@
-# telbot
-telegram bot token
+# telegram bot
+
 فرستادن قیمت دلار در تلگرام به وسیله بات تلگرام
